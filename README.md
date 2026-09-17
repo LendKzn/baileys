@@ -3,7 +3,7 @@
 A high-performance WhatsApp Web library built on [Baileys](https://github.com/WhiskeySockets/Baileys), with critical paths accelerated via a [Rust WASM bridge](https://github.com/7ucg/whatsapp-rust-bridge).
 
 <p align="center">
-  <img alt="package" src="https://img.shields.io/badge/package-%40badzz88%2Fbaileys-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  <img alt="package" src="https://img.shields.io/badge/package-%40LendKzn%2Fbaileys-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   <img alt="version" src="https://img.shields.io/badge/version-1.1.8-blue?style=for-the-badge">
 </p>
 <p align="center">
@@ -96,9 +96,9 @@ A high-performance WhatsApp Web library built on [Baileys](https://github.com/Wh
 ## Installation
 
 ```bash
-npm install npm:@badzz88/baileys
+npm install npm:@lendkzn/baileys
 # or
-yarn add npm:@badzz88/baileys
+yarn add npm:@lendkzn/baileys
 ```
 
 **Requirements:** Node.js ≥ 20
@@ -116,7 +116,7 @@ yarn add npm:@badzz88/baileys
 
 ```bash
 pkg install nodejs-lts
-npm install npm:@badzz88/baileys
+npm install npm:@lendkzn/baileys
 ```
 
 `whatsapp-rust-bridge` compiles to **WASM**, not a platform-specific native binary, and
@@ -148,7 +148,7 @@ If you ever do need to build it from source (e.g. `WHATSAPP_RUST_BRIDGE_SKIP_PRE
 
 ```bash
 pkg install rust binutils
-npm install npm:@badzz88/baileys
+npm install npm:@lendkzn/baileys
 ```
 
 > **Note:** some published versions of the bridge ship a `package.json` whose
@@ -187,7 +187,7 @@ prebuilt WASM bridge and `sharp`'s prebuilt binaries. Checklist:
 ### QR Code
 
 ```js
-const { makeWASocket, useMultiFileAuthState, DisconnectReason } = require('@badzz88/baileys')
+const { makeWASocket, useMultiFileAuthState, DisconnectReason } = require('@lendkzn/baileys')
 const { Boom } = require('@hapi/boom')
 
 const { state, saveCreds } = await useMultiFileAuthState('./auth')
@@ -247,7 +247,7 @@ const sock = makeWASocket({
 ## Saving & Restoring Sessions
 
 ```js
-const { useMultiFileAuthState } = require('@badzz88/baileys')
+const { useMultiFileAuthState } = require('@lendkzn/baileys')
 
 const { state, saveCreds } = await useMultiFileAuthState('./auth')
 // Pass state to makeWASocket, call saveCreds on creds.update
