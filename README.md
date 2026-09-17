@@ -1,4 +1,4 @@
-# @badzz88/baileys
+# @LendKzn/baileys
 
 A high-performance WhatsApp Web library built on [Baileys](https://github.com/WhiskeySockets/Baileys), with critical paths accelerated via a [Rust WASM bridge](https://github.com/7ucg/whatsapp-rust-bridge).
 
@@ -7,16 +7,16 @@ A high-performance WhatsApp Web library built on [Baileys](https://github.com/Wh
   <img alt="version" src="https://img.shields.io/badge/version-1.1.8-blue?style=for-the-badge">
 </p>
 <p align="center">
-  <a href="https://t.me/FoxsSql"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-FoxsSql-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
-  <a href="https://github.com/Badzz88"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Badzz88-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://t.me/lendd3"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-FoxsSql-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  <a href="https://github.com/LendKzn"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Badzz88-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 | | |
 |---|---|
-| 📦 **Package** | `@badzz88/baileys` |
-| 🏷️ **Version** | `8.5.3` |
-| 💬 **Telegram** | [t.me/FoxsSql](https://t.me/FoxsSql) |
-| 🐙 **GitHub** | [github.com/Badzz88](https://github.com/Badzz88) |
+| 📦 **Package** | `@lendkzn/baileys` |
+| 🏷️ **Version** | `5.0.1` |
+| 💬 **Telegram** | [t.me/lendd3](https://t.me/lendd3) |
+| 🐙 **GitHub** | [github.com/LendKzn](https://github.com/LendKzn) |
 
 ---
 
