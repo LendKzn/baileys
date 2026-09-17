@@ -4,11 +4,11 @@ A high-performance WhatsApp Web library built on [Baileys](https://github.com/Wh
 
 <p align="center">
   <img alt="package" src="https://img.shields.io/badge/package-%40LendKzn%2Fbaileys-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-  <img alt="version" src="https://img.shields.io/badge/version-1.1.8-blue?style=for-the-badge">
+  <img alt="version" src="https://img.shields.io/badge/version-NewUpdated-blue?style=for-the-badge">
 </p>
 <p align="center">
-  <a href="https://t.me/lendd3"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-FoxsSql-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
-  <a href="https://github.com/LendKzn"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Badzz88-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://t.me/lendd3"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-lendd3-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  <a href="https://github.com/LendKzn"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-LendKzn-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 | | |
